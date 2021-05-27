@@ -1,5 +1,5 @@
-# MITxPro
-Website: 
+# Website:
+https://giuseppelino.github.io/pacman/ 
 
 ## Name  
 Pac-Man
@@ -22,7 +22,7 @@ Improvements comming according to the progress of the course
 ## License information
 **MIT License**
 
-Copyright (c) 2020 John Williams
+Copyright (c) 2020 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
