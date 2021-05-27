@@ -13,11 +13,13 @@ Copy the code and change your picture.  Please don't change the code in this Rep
 ## Usage
 Educational purposes
 
+Thanks to https://github.com/WDev2021
+
 ## Support
 giuseppelino@gmail.com
 
 ## Roadmap
-Improvements comming according to the progress of the course
+NA
 
 ## License information
 **MIT License**
